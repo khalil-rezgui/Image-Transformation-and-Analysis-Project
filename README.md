@@ -4,8 +4,13 @@ It is a type of signal processing in which input is an image and output may be i
 Image Processing Operations:
 
   Color Space Conversion: Converts the loaded image from BGR to RGB using OpenCV.
+  
   Image Concatenation: Horizontally concatenates the original and converted images side by side.
+  
   Grayscale Conversion: Converts the image to grayscale using OpenCV.
+  
   Negative Image: Inverts the grayscale image.
+  
   Contrast Adjustment: Adjusts the contrast of the grayscale image.
+  
   Gamma Correction: Applies gamma correction to the grayscale image.
